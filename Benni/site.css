@@ -15532,8 +15532,8 @@ body:not(.button-style-default).button-style-outline .newsletter-block .newslett
     -webkit-box-shadow: inset 0px 0px 0px 1px #272727;
     -moz-box-shadow: inset 0px 0px 0px 1px #272727;
     box-shadow: inset 0px 0px 0px 1px #272727;
-    background: transparent;
-    color: #272727
+    background: #0000002e;
+    color: #ffffff;
 }
 
 body:not(.button-style-default).button-style-outline .newsletter-block .newsletter-form-button:hover {

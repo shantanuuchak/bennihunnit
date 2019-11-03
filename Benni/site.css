@@ -21952,3 +21952,24 @@ html.squarespace-cameron .yui3-lightbox2 .sqs-lightbox-overlay {
     letter-spacing: 1px;
     text-transform: uppercase
 }
+
+#tickets{
+    display: inline-block;
+        box-sizing: border-box;
+        -webkit-appearance: none;
+           -moz-appearance: none;
+                appearance: none;
+        background-color: rgba(128, 128, 128, 0.308);
+        border-radius: 0;
+        color: #fff;
+        cursor: pointer;
+        align-self: center;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1;
+        margin: 10px;
+        padding: .9em 1.8em;
+        text-decoration: none;
+        text-align: center;
+        text-transform: uppercase;
+}
